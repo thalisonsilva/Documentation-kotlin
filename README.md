@@ -47,6 +47,7 @@ This repository serves as your dedicated hub for mastering the Kotlin programmin
 
 * **Structure:** Organize your notes by topic or concept using folders.
 * **Regular Updates:** Keep your repository updated with your learning progress.
-* **Community:** Don't be afraid to ask questions and engage with the Kotlin community for help and support. Join our <a href "https://discord.gg/Uv5KFfV3">Discord</a> 
+* **Community:** Don't be afraid to ask questions and engage with the Kotlin community for help and support. <a href="https://discord.gg/Uv5KFfV3">Join our Discord Server!</a>
+
 
 Let's learn and grow together with Kotlin!
