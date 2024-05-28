@@ -41,7 +41,7 @@ This repository serves as your dedicated hub for mastering the Kotlin programmin
 * **Official Documentation:**  [https://kotlinlang.org/docs/home.html](https://kotlinlang.org/docs/home.html)
 * **Kotlin Koans:**  Interactive exercises:  [https://play.kotlinlang.org/koans/overview](https://play.kotlinlang.org/koans/overview)
 * **Awesome Kotlin:** A curated list of Kotlin resources: [https://github.com/KotlinBy/awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin)
-* **Discuss this project in Kotlin Slack, channel: # awesome-kotlin**
+* Discuss this project in <a href="https://surveys.jetbrains.com/s3/kotlin-slack-sign-up">Kotlin Slack!</a>, channel: # awesome-kotlin Kotlin Slack
 
 ## Let's learn and grow together with Kotlin!
 * **Additional Tips:**
