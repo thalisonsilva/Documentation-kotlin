@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) [2024] [Thalison Moroira da Silva]
+Copyright (c) [2024] [Thalison Moreira da Silva]
 
 Permission is granted, free of charge, to anyone who obtains a copy
 of this software and associated documentation files (the "Documentation"), to deal with
