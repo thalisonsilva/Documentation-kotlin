@@ -1,4 +1,4 @@
-# Welcome to the Kotlin Learning Repository
+# Welcome to the Kotlin Learning Repository 
 
 This repository serves as your dedicated hub for mastering the Kotlin programming language. It's designed to be a living document that grows as you progress through your learning journey.
 
